@@ -1,0 +1,17 @@
+{
+  "random_forest_accuracy": 0.6375,
+  "cnn_accuracy": 0.6625,
+  "test_fold": 5,
+  "classes": [
+    "dog",
+    "rooster",
+    "pig",
+    "cow",
+    "frog",
+    "cat",
+    "hen",
+    "insects",
+    "sheep",
+    "crow"
+  ]
+}
