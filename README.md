@@ -2,7 +2,7 @@
 
 Classify 10 animal sounds (dog, cat, cow, frog, pig, hen, rooster, sheep, crow, insects) from a 5-second `.wav` clip. Compares a classical Random Forest baseline against a small CNN trained on log-mel spectrograms.
 
-Built as a learning project and a portfolio piece. Inspired by [Moodify](https://github.com/cayetana-h/Moodify), but takes a different approach across every axis: real labels instead of clustered pseudo-labels, raw audio instead of pre-extracted Spotify features, and an honest two-model comparison instead of a single classifier.
+Built as a learning project and a portfolio piece — real human labels, raw audio in, and an honest side-by-side comparison of a classical and a deep model on the same held-out fold.
 
 ## What this teaches
 
@@ -80,4 +80,3 @@ sound-classifier/
 ## Credits
 
 - Dataset: [ESC-50](https://github.com/karolpiczak/ESC-50) by Karol J. Piczak (CC BY-NC).
-- Conceptual inspiration: [Moodify](https://github.com/cayetana-h/Moodify) — this project shares the "ML on audio" theme but uses a different dataset, real labels, raw audio input, and a different model class.
