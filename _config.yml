@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+title: Animal Sound Classifier
+description: Random Forest vs CNN on the 10 animal classes of ESC-50.
+show_downloads: true
